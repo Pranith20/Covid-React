@@ -1,5 +1,5 @@
 {
-  "homepage": "http://Pranith20,github.io/Covid-React",
+  "homepage": "http://Pranith20,github.io/CovidReact-API",
   "name": "covidapi",
   "version": "0.1.0",
   "private": true,
@@ -24,7 +24,7 @@
     "react-tooltip": "^4.2.8"
   },
   "scripts": {
-    "predeploy": "npm ru build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
